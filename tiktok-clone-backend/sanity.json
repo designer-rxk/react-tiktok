@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "react-pintrest-clone"
+    "name": "tiktok-clone-backend"
   },
   "api": {
-    "projectId": "f8lrj5zv",
+    "projectId": "m60h7q3u",
     "dataset": "production"
   },
   "plugins": [

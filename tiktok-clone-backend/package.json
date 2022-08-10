@@ -1,10 +1,10 @@
 {
-  "name": "react-pintrest-clone",
+  "name": "tiktok-clone-backend",
   "private": true,
   "version": "1.0.0",
   "description": "",
   "main": "package.json",
-  "author": "rxk <tiamoonlol02@gmail.com>",
+  "author": "Raivis Kārkliņš <raix.karks98@gmail.com>",
   "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",

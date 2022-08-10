@@ -1,5 +1,4 @@
-export default
-{
+export default {
     name: 'comment',
     title: 'Comment',
     type: 'document',
@@ -7,12 +6,12 @@ export default
         {
             name: 'postedBy',
             title: 'PostedBy',
-            type: 'postedBy'
+            type: 'postedBy',
         },
         {
             name: 'comment',
             title: 'Comment',
-            type: 'string'
+            type: 'string',
         },
-    ]
-}
+    ],
+};
