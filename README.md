@@ -3,6 +3,7 @@ Technology used:
 * React.js
 * Next.js
 * Sanity
+
 ## Start backend and frontend
 * Install dependencies</br>
 ### Start the backend:</br>
