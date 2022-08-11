@@ -8,4 +8,4 @@ Technology used:
 ### Start the backend:</br>
 * cd into 'tiktok-clone-backend' and 'sanity start' to modify the backend do 'sanity manage'</br>
 ### Start the frontend:</br>
-* cd into '..' and 'npm run dev'
+* cd into main directory and 'npm run dev'
