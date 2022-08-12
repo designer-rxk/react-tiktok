@@ -6,6 +6,7 @@ Technology used:
 ## Start backend and frontend
 * Install dependencies</br>
 ### Start the backend:</br>
-* cd into 'tiktok-clone-backend' and 'sanity start' to modify the backend run 'sanity manage'</br>
+* cd into 'tiktok-clone-backend' and run 'sanity start' to modify the backend 
+'sanity manage' To edit the contents on the backend</br>
 ### Start the frontend:</br>
 * cd into main directory and run 'npm run dev'
